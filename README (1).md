@@ -101,10 +101,6 @@ Diabeticsapp/
 
 ---
 
-## Author
-
-**Mohit Derek**
-📧 [mohitsercha5623@gmail.com](mailto:mohitsercha5623@gmail.com)
 
 **License**: MIT License
 
